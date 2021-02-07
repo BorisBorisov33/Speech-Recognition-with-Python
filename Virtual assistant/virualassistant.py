@@ -55,10 +55,6 @@ def assistantResponse(text):
     #Play the converted file
     os.system('start assistant_response.mp3')
 
-# text=("Hello Annita! Boris Borisov likes you very much and he wants you to be his girlfriend")
-# assistantResponse(text)
-
-    
 
 # A function for wake words
 def wakeword(text):
